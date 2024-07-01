@@ -1,0 +1,321 @@
+Welcome to Battle of Slimes!
+You have Green, Red and Blue. So does Enemy.
+Select your starting slime (1 for Green, 2 for Red, 3 for Blue): You start with Green
+Enemy starts with Red
+Your Green: HP 110 || Enemy's Red: HP 100
+Battle starts!
+--------------------------------------------------
+Round 1
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy's Red uses Flame! Damage: 10
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 2
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Red
+Enemy sends Green
+Your Red: HP 100 || Enemy's Green: HP 110
+--------------------------------------------------
+Round 3
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 3 for Blue): Select your next slime (1 for Green, 3 for Blue): You send Blue
+Enemy sends Blue
+Your Blue: HP 90 || Enemy's Blue: HP 100
+--------------------------------------------------
+Round 4
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Stream): Enemy sends Green
+Your Blue uses Tackle! Damage: 20
+Your Blue: HP 90 || Enemy's Green: HP 90
+--------------------------------------------------
+Round 5
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy's Green uses Leaf! Damage: 10
+Your Green: HP 100 || Enemy's Green: HP 90
+--------------------------------------------------
+Round 6
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Red
+Enemy sends Red
+Your Red: HP 100 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 7
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 3 for Blue): You send Green
+Enemy sends Blue
+Your Green: HP 100 || Enemy's Blue: HP 100
+--------------------------------------------------
+Round 8
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Leaf): Enemy sends Red
+Your Green uses Leaf! Damage: 10
+Your Green: HP 100 || Enemy's Red: HP 90
+--------------------------------------------------
+Round 9
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Red
+Enemy's Red uses Flame! Damage: 11
+Your Red: HP 89 || Enemy's Red: HP 90
+--------------------------------------------------
+Round 10
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 3 for Blue): You send Green
+Enemy sends Blue
+Your Green: HP 100 || Enemy's Blue: HP 100
+--------------------------------------------------
+Round 11
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Red
+Enemy sends Red
+Your Red: HP 89 || Enemy's Red: HP 90
+--------------------------------------------------
+Round 12
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 3 for Blue): You send Blue
+Enemy sends Blue
+Your Blue: HP 90 || Enemy's Blue: HP 100
+--------------------------------------------------
+Round 13
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Stream): Enemy sends Green
+Your Blue uses Stream! Damage: 10
+Your Blue: HP 90 || Enemy's Green: HP 80
+--------------------------------------------------
+Round 14
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Red
+Enemy's Green uses Leaf! Damage: 10
+Your Red: HP 79 || Enemy's Green: HP 80
+--------------------------------------------------
+Round 15
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Flame): Enemy sends Blue
+Your Red uses Flame! Damage: 10
+Your Red: HP 79 || Enemy's Blue: HP 90
+--------------------------------------------------
+Round 16
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 3 for Blue): Select your next slime (1 for Green, 3 for Blue): You send Green
+Enemy's Blue uses Stream! Damage: 10
+Your Green: HP 90 || Enemy's Blue: HP 90
+--------------------------------------------------
+Round 17
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Leaf): Select the skill (1 for Tackle, 2 for Leaf): Select the skill (1 for Tackle, 2 for Leaf): Select the skill (1 for Tackle, 2 for Leaf): Select the skill (1 for Tackle, 2 for Leaf): Enemy sends Red
+Your Green uses Tackle! Damage: 20
+Your Green: HP 90 || Enemy's Red: HP 70
+--------------------------------------------------
+Round 18
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy's Red uses Flame! Damage: 10
+Your Blue: HP 80 || Enemy's Red: HP 70
+--------------------------------------------------
+Round 19
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 90 || Enemy's Green: HP 80
+--------------------------------------------------
+Round 20
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Red
+Enemy sends Red
+Your Red: HP 79 || Enemy's Red: HP 70
+--------------------------------------------------
+Round 21
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 3 for Blue): You send Green
+Enemy sends Blue
+Your Green: HP 90 || Enemy's Blue: HP 90
+--------------------------------------------------
+Round 22
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): Select your next slime (2 for Red, 3 for Blue): You send Red
+Enemy sends Red
+Your Red: HP 79 || Enemy's Red: HP 70
+--------------------------------------------------
+Round 23
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 3 for Blue): You send Green
+Enemy sends Blue
+Your Green: HP 90 || Enemy's Blue: HP 90
+--------------------------------------------------
+Round 24
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 80 || Enemy's Red: HP 70
+--------------------------------------------------
+Round 25
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Stream): Select the skill (1 for Tackle, 2 for Stream): Enemy sends Green
+Your Blue uses Stream! Damage: 10
+Your Blue: HP 80 || Enemy's Green: HP 70
+--------------------------------------------------
+Round 26
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy's Green uses Leaf! Damage: 10
+Your Green: HP 80 || Enemy's Green: HP 70
+--------------------------------------------------
+Round 27
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 80 || Enemy's Red: HP 70
+--------------------------------------------------
+Round 28
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): Select your next slime (1 for Green, 2 for Red): You send Red
+Enemy sends Green
+Your Red: HP 79 || Enemy's Green: HP 70
+--------------------------------------------------
+Round 29
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 3 for Blue): Select your next slime (1 for Green, 3 for Blue): Select your next slime (1 for Green, 3 for Blue): You send Green
+Enemy sends Blue
+Your Green: HP 80 || Enemy's Blue: HP 90
+--------------------------------------------------
+Round 30
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): Select your next slime (2 for Red, 3 for Blue): You send Red
+Enemy sends Red
+Your Red: HP 79 || Enemy's Red: HP 70
+--------------------------------------------------
+Round 31
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Flame): Enemy sends Blue
+Your Red uses Tackle! Damage: 20
+Your Red: HP 79 || Enemy's Blue: HP 70
+--------------------------------------------------
+Round 32
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 3 for Blue): Select your next slime (1 for Green, 3 for Blue): Select your next slime (1 for Green, 3 for Blue): Select your next slime (1 for Green, 3 for Blue): You send Green
+Enemy's Blue uses Stream! Damage: 10
+Your Green: HP 70 || Enemy's Blue: HP 70
+--------------------------------------------------
+Round 33
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 80 || Enemy's Red: HP 70
+--------------------------------------------------
+Round 34
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 70 || Enemy's Green: HP 70
+--------------------------------------------------
+Round 35
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Leaf): Enemy sends Red
+Your Green uses Tackle! Damage: 20
+Your Green: HP 70 || Enemy's Red: HP 50
+--------------------------------------------------
+Round 36
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Red
+Enemy's Red uses Flame! Damage: 11
+Your Red: HP 68 || Enemy's Red: HP 50
+--------------------------------------------------
+Round 37
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Flame): Select the skill (1 for Tackle, 2 for Flame): Enemy sends Blue
+Your Red uses Flame! Damage: 10
+Your Red: HP 68 || Enemy's Blue: HP 60
+--------------------------------------------------
+Round 38
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 3 for Blue): Select your next slime (1 for Green, 3 for Blue): Select your next slime (1 for Green, 3 for Blue): You send Green
+Enemy's Blue uses Stream! Damage: 10
+Your Green: HP 60 || Enemy's Blue: HP 60
+--------------------------------------------------
+Round 39
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Leaf): Select the skill (1 for Tackle, 2 for Leaf): Select the skill (1 for Tackle, 2 for Leaf): Select the skill (1 for Tackle, 2 for Leaf): Enemy sends Red
+Your Green uses Leaf! Damage: 10
+Your Green: HP 60 || Enemy's Red: HP 40
+--------------------------------------------------
+Round 40
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Leaf): Enemy's Red uses Flame! Damage: 44
+Your Green uses Tackle! Damage: 20
+Your Green: HP 16 || Enemy's Red: HP 20
+--------------------------------------------------
+Round 41
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy's Red uses Flame! Damage: 10
+Your Blue: HP 70 || Enemy's Red: HP 20
+--------------------------------------------------
+Round 42
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Stream): Select the skill (1 for Tackle, 2 for Stream): Enemy sends Green
+Your Blue uses Stream! Damage: 10
+Your Blue: HP 70 || Enemy's Green: HP 60
+--------------------------------------------------
+Round 43
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Stream): Enemy's Green uses Leaf! Damage: 36
+Your Blue uses Tackle! Damage: 20
+Your Blue: HP 34 || Enemy's Green: HP 40
+--------------------------------------------------
+Round 44
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy's Green uses Leaf! Damage: 10
+Your Green: HP 6 || Enemy's Green: HP 40
+--------------------------------------------------
+Round 45
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Red
+Enemy sends Red
+Your Red: HP 68 || Enemy's Red: HP 20
+--------------------------------------------------
+Round 46
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 3 for Blue): Select your next slime (1 for Green, 3 for Blue): You send Green
+Enemy sends Blue
+Your Green: HP 6 || Enemy's Blue: HP 60
+--------------------------------------------------
+Round 47
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Leaf): Select the skill (1 for Tackle, 2 for Leaf): Enemy sends Red
+Your Green uses Leaf! Damage: 10
+Your Green: HP 6 || Enemy's Red: HP 10
+--------------------------------------------------
+Round 48
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Leaf): Enemy's Red uses Flame! Damage: 44
+Your Green is beaten
+Select your next slime (2 for Red, 3 for Blue): You send Blue
+Your Blue: HP 34 || Enemy's Red: HP 10
+--------------------------------------------------
+Round 49
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your next slime (2 for Red): You send Red
+Enemy sends Green
+Your Red: HP 68 || Enemy's Green: HP 40
+--------------------------------------------------
+Round 50
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Flame): Select the skill (1 for Tackle, 2 for Flame): Enemy sends Blue
+Your Red uses Tackle! Damage: 20
+Your Red: HP 68 || Enemy's Blue: HP 40
+--------------------------------------------------
+Round 51
+Select your action (1 for skill, 2 for change): Select your next slime (3 for Blue): Select your next slime (3 for Blue): Select your next slime (3 for Blue): You send Blue
+Enemy's Blue uses Stream! Damage: 9
+Your Blue: HP 25 || Enemy's Blue: HP 40
+--------------------------------------------------
+Round 52
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Stream): Enemy sends Green
+Your Blue uses Tackle! Damage: 20
+Your Blue: HP 25 || Enemy's Green: HP 20
+--------------------------------------------------
+Round 53
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your next slime (2 for Red): You send Red
+Enemy's Green uses Leaf! Damage: 10
+Your Red: HP 58 || Enemy's Green: HP 20
+--------------------------------------------------
+Round 54
+Select your action (1 for skill, 2 for change): Select your next slime (3 for Blue): You send Blue
+Enemy sends Blue
+Your Blue: HP 25 || Enemy's Blue: HP 40
+--------------------------------------------------
+Round 55
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Stream): Select the skill (1 for Tackle, 2 for Stream): Enemy sends Green
+Your Blue uses Stream! Damage: 10
+Your Blue: HP 25 || Enemy's Green: HP 10
+--------------------------------------------------
+Round 56
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red): Select your next slime (2 for Red): Select your next slime (2 for Red): Select your next slime (2 for Red): You send Red
+Enemy's Green uses Leaf! Damage: 10
+Your Red: HP 48 || Enemy's Green: HP 10
+--------------------------------------------------
+Round 57
+Select your action (1 for skill, 2 for change): Select your next slime (3 for Blue): Select your next slime (3 for Blue): You send Blue
+Enemy sends Blue
+Your Blue: HP 25 || Enemy's Blue: HP 40
+--------------------------------------------------
+Round 58
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Stream): Enemy sends Green
+Your Blue uses Tackle! Damage: 20
+Enemy's Green is beaten
+Enemy sends Blue
+Your Blue: HP 25 || Enemy's Blue: HP 40
+--------------------------------------------------
+Round 59
+Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your action (1 for skill, 2 for change): Select your next slime (2 for Red): You send Red
+Enemy's Blue uses Tackle! Damage: 20
+Your Red: HP 28 || Enemy's Blue: HP 40
+--------------------------------------------------
+Round 60
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Flame): Select the skill (1 for Tackle, 2 for Flame): Select the skill (1 for Tackle, 2 for Flame): Your Red uses Tackle! Damage: 20
+Enemy's Blue uses Stream! Damage: 40
+Your Red is beaten
+Select your next slime (3 for Blue): You send Blue
+Your Blue: HP 25 || Enemy's Blue: HP 20
+--------------------------------------------------
+Round 61
+Select your action (1 for skill): Select the skill (1 for Tackle, 2 for Stream): Select the skill (1 for Tackle, 2 for Stream): Enemy's Blue uses Tackle! Damage: 18
+Your Blue uses Stream! Damage: 9
+Your Blue: HP 7 || Enemy's Blue: HP 11
+--------------------------------------------------
+Round 62
+Select your action (1 for skill): Select your action (1 for skill): Select your action (1 for skill): Select your action (1 for skill): Select the skill (1 for Tackle, 2 for Stream): Enemy's Blue uses Tackle! Damage: 18
+Your Blue is beaten
+You Lose
