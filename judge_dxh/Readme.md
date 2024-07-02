@@ -1,7 +1,7 @@
 # Judge_dxh 使用教程
 ### 制作 by 邓熙涵
 ### 创建日期：2024/06/30
-
+下载整个文件：https://github.com/xhDeng19/Judge_dxh_Battle_of_Slimes/archive/refs/heads/main.zip
 ## 0.文件结构
 ```
 judge_dxh.zip
