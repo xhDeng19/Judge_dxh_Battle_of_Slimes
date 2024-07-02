@@ -28,6 +28,7 @@ def output_authentic_files(task_files, data_out_files, data_in_files):
 
 def output_your_files(data_in_files, your_out_files):
     for i in range(len(data_in_files)):
+        isTimeOut = False
         with open(data_in_files[i], 'r') as input_file, open(your_out_files[i], 'w') as output_file:
             # 输入为 data/*.in 输出为 data/your_output_files.out
             try:
@@ -36,7 +37,11 @@ def output_your_files(data_in_files, your_out_files):
                     print(f"{i + 1}.in failed in execution!")
                     print(run_result.stderr)
             except subprocess.TimeoutExpired:
-                continue
+                isTimeOut = True
+        
+        if isTimeOut:
+            with (open(your_out_files[i], 'w')) as output_file:
+                output_file.write("Time Out!")
 
 def modify_authentic_output_files(data_out_files):
     for i in range(len(data_out_files)):
