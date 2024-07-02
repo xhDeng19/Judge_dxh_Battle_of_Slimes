@@ -1,6 +1,7 @@
 import subprocess
 import glob
 import sys
+from os import makedirs
 
 #限时2秒（单位为秒）
 TIMEOUT = 2
@@ -89,7 +90,9 @@ def compare_files(data_out_files, your_out_files):
 
             if (isCorrect):
                 print(f"{i + 1}.out is correct.")
-                  
+
+#初始化
+makedirs(in_current_dir("data\\your_output_files"))         
 
 
 # 文件目录               
