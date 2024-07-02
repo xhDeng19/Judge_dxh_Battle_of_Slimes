@@ -1,7 +1,7 @@
 import subprocess
 import glob
 import sys
-from os import makedirs
+from os import makedirs, path
 
 #限时2秒（单位为秒）
 TIMEOUT = 2
@@ -88,11 +88,14 @@ def compare_files(data_out_files, your_out_files):
                     print("\n")
                     isCorrect = False
 
-            if (isCorrect):
+            if (isCorrect and len(standard_content) == len(your_content)):
                 print(f"{i + 1}.out is correct.")
+            elif (isCorrect):
+                print(f"{i + 1}.out is WRONG. Compare data\\{i + 1}.out and data\\your_output_files\\{i + 1}.out to find out.")
 
 #初始化
-makedirs(in_current_dir("data\\your_output_files"))         
+if not path.exists(in_current_dir("data\\your_output_files")):
+    makedirs(in_current_dir("data\\your_output_files"))         
 
 
 # 文件目录               

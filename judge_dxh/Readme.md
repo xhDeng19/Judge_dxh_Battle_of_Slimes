@@ -10,7 +10,6 @@ judge_dxh.zip
 |   |  |- judge_dxh.py
 |   |  |- Task1.exe
 |   |  |- data
-|   |     |- your_output_files
 |   |     |- 1.in
 |   |     |- 2.in
 |   |     |- ...
@@ -19,7 +18,6 @@ judge_dxh.zip
 |   |  |- judge_dxh.py
 |   |  |- Task2.exe
 |   |  |- data
-|   |     |- your_output_files
 |   |     |- 1.in
 |   |     |- 2.in
 |   |     |- ...
@@ -28,7 +26,6 @@ judge_dxh.zip
 |   |  |- judge_dxh.py
 |   |  |- Task3.exe
 |   |  |- data
-|   |     |- your_output_files
 |   |     |- 1.in
 |   |     |- 2.in
 |   |     |- ...
