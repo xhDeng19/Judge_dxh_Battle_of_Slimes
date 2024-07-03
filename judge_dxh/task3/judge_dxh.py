@@ -57,16 +57,22 @@ def modify_authentic_output_files(data_out_files):
                             .replace("Enemy start", "Enemy starts")\
                             .replace("Battle start!", "Battle starts!")\
                             .replace("Enemy WIN! You LOSE!", "You Lose\n")\
-                            .replace("You WIN! Enemy LOSE!", "You Win\n")
+                            .replace("You WIN! Enemy LOSE!", "You Win\n")\
+                            .replace("DRAW!", "Draw\n")
         
         with open(data_out_files[i], "w") as write_file:
             write_file.writelines(new_line)
 
-def del_first_hp_print(your_content):
+def del_hp_print(your_content):
     for i in range(len(your_content)):
         if "||" in your_content[i]:
             del your_content[i]
-            return
+            break
+
+    for i in range(len(your_content) - 1, -1, -1):
+        if "Draw" in your_content[i]:
+            del your_content[i - 1]
+            break
 
 def compare_files(data_out_files, your_out_files):
     for i in range(len(data_out_files)):
@@ -74,7 +80,7 @@ def compare_files(data_out_files, your_out_files):
         with open(data_out_files[i], 'r') as fstandard, open(your_out_files[i], 'r') as fyours:
             standard_content = fstandard.readlines()
             your_content = fyours.readlines()
-            del_first_hp_print(your_content) #放弃检测第一次hp输出（Task?.exe的bug）
+            del_hp_print(your_content) #放弃检测第一次hp输出和平局的最后一次hp输出（Task?.exe的bug）
             isCorrect = True
 
             for line_i in range(min(len(standard_content), len(your_content))):
