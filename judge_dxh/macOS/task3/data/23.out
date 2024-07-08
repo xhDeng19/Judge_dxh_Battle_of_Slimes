@@ -1,0 +1,509 @@
+Welcome to Battle of Slimes!
+You have Green, Red and Blue. So does Enemy.
+Select your starting slime (1 for Green, 2 for Red, 3 for Blue): You start with Blue
+Enemy starts with Green
+Your Blue: HP 100 || Enemy's Green: HP 110
+Battle starts!
+--------------------------------------------------
+Round 1
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Red
+Enemy uses Attack Potion on Green
+Your Red: HP 100 || Enemy's Green: HP 110
+--------------------------------------------------
+Round 2
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Flame): Your Red uses Flame! Damage: 44
+Enemy's Green uses Tackle! Damage: 40
+Your Red: HP 60 || Enemy's Green: HP 66
+--------------------------------------------------
+Round 3
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Flame): Your Red uses Flame! Damage: 44
+Enemy's Green uses Tackle! Damage: 40
+Your Red: HP 20 || Enemy's Green: HP 22
+--------------------------------------------------
+Round 4
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Flame): Your Red uses Flame! Damage: 44
+Enemy's Green is beaten
+Enemy sends Blue
+Your Red: HP 20 || Enemy's Blue: HP 100
+--------------------------------------------------
+Round 5
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Flame): Enemy uses Revival Potion on Green
+Your Red uses Tackle! Damage: 20
+Your Red: HP 20 || Enemy's Blue: HP 80
+--------------------------------------------------
+Round 6
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Flame): Enemy uses Attack Potion on Blue
+Your Red uses Tackle! Damage: 20
+Your Red: HP 20 || Enemy's Blue: HP 60
+--------------------------------------------------
+Round 7
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 3 for Blue): You send Green
+Enemy's Blue uses Stream! Damage: 20
+Your Green: HP 90 || Enemy's Blue: HP 60
+--------------------------------------------------
+Round 8
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Leaf): Your Green uses Leaf! Damage: 36
+Enemy's Blue uses Tackle! Damage: 40
+Your Green: HP 50 || Enemy's Blue: HP 24
+--------------------------------------------------
+Round 9
+Select your action (1 for skill, 2 for change): Select the skill (1 for Tackle, 2 for Leaf): Your Green uses Leaf! Damage: 36
+Enemy's Blue is beaten
+Enemy sends Red
+Your Green: HP 50 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 10
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy's Red uses Flame! Damage: 10
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 11
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 12
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 13
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 14
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 15
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 16
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 17
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 18
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 19
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 20
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 21
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 22
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 23
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 24
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 25
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 26
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 27
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 28
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 29
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 30
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 31
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 32
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 33
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 34
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 35
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 36
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 37
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 38
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 39
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 40
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 41
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 42
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 43
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 44
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 45
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 46
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 47
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 48
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 49
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 50
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 51
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 52
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 53
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 54
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 55
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 56
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 57
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 58
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 59
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 60
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 61
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 62
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 63
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 64
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 65
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 66
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 67
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 68
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 69
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 70
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 71
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 72
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 73
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 74
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 75
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 76
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 77
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 78
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 79
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 80
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 81
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 82
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 83
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 84
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 85
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 86
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 87
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 88
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 89
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 90
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 91
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 92
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 93
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 94
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 95
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 96
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 97
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 98
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+--------------------------------------------------
+Round 99
+Select your action (1 for skill, 2 for change): Select your next slime (1 for Green, 2 for Red): You send Green
+Enemy sends Green
+Your Green: HP 50 || Enemy's Green: HP 55
+--------------------------------------------------
+Round 100
+Select your action (1 for skill, 2 for change): Select your next slime (2 for Red, 3 for Blue): You send Blue
+Enemy sends Red
+Your Blue: HP 90 || Enemy's Red: HP 100
+Draw

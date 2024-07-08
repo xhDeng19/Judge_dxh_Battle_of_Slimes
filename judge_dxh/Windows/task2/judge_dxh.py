@@ -119,8 +119,8 @@ your_out_files.sort(key=lambda string : get_data_num(string))
 if not cpp_files:
     print("No .cpp files found in the current directory")
 else:
-    # 编译所有的.cpp文件
-    compile_result = subprocess.run(['g++', '-o', 'main'] + cpp_files, capture_output=True, text=True)
+    # 编译所有的.cpp文件 (启用c++11标准)
+    compile_result = subprocess.run(['g++', '-std=c++11', '-o', 'main'] + cpp_files, capture_output=True, text=True)
 
     if compile_result.returncode != 0:
         #编译失败
