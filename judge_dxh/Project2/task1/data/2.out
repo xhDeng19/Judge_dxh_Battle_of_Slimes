@@ -1,0 +1,19 @@
+Welcome to Battle of Slimes 2!
+Enemy has Pink, Green and Red, starting with Pink.
+You can select three from five (1 for Green, 2 for Red, 3 for Blue, 4 for Yellow, 5 for Pink).
+Select your 1st slime: Select your 2nd slime: Select your 3rd slime: You have Red, Pink and Green, starting with Red
+Your Red: HP 100 || Enemy's Pink: HP 120
+Battle starts!
+--------------------------------------------------
+Round 1
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Pink-HP120, 3 for Green-HP110): Select your next slime (0 for back, 2 for Pink-HP120, 3 for Green-HP110): You send Green
+Enemy's Pink uses Sing! Your Green falls asleep
+Your Green: HP 110 || Enemy's Pink: HP 120
+--------------------------------------------------
+Round 2
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Red-HP100, 2 for Pink-HP120): You send Red
+Enemy's Pink uses Paint! Your Red is painted
+Your Red: HP 100 || Enemy's Pink: HP 120
+--------------------------------------------------
+Round 3
+Select your action (0 for escape, 1 for skill, 2 for change): You Escape

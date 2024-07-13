@@ -1,0 +1,47 @@
+Welcome to Battle of Slimes 2!
+Enemy has Pink, Green and Red, starting with Pink.
+You can select three from five (1 for Green, 2 for Red, 3 for Blue, 4 for Yellow, 5 for Pink).
+Select your 1st slime: Select your 2nd slime: Select your 3rd slime: You have Green, Yellow and Red, starting with Green
+Your Green: HP 110 || Enemy's Pink: HP 120
+Battle starts!
+--------------------------------------------------
+Round 1
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Yellow-HP90, 3 for Red-HP100): You send Red
+Enemy's Pink uses Sing! Your Red falls asleep
+Your Red: HP 100 || Enemy's Pink: HP 120
+--------------------------------------------------
+Round 2
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Your Red is sleeping
+Enemy's Pink uses Paint! Your Red is painted
+Your Red: HP 100 || Enemy's Pink: HP 120
+--------------------------------------------------
+Round 3
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Your Red is sleeping
+Enemy's Pink uses Slap! Damage: 54
+Your Red wakes up
+Your Red: HP 46 || Enemy's Pink: HP 120
+--------------------------------------------------
+Round 4
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Your Red uses Claw! Damage: 23
+Enemy's Pink uses Sing! Your Red falls asleep
+Your Red: HP 46 || Enemy's Pink: HP 97
+--------------------------------------------------
+Round 5
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Your Red is sleeping
+Enemy's Pink uses Slap! Damage: 54
+Your Red is beaten
+Select your next slime (1 for Green-HP110, 2 for Yellow-HP90): Select your next slime (1 for Green-HP110, 2 for Yellow-HP90): Select your next slime (1 for Green-HP110, 2 for Yellow-HP90): Select your next slime (1 for Green-HP110, 2 for Yellow-HP90): You send Yellow
+Your Yellow: HP 90 || Enemy's Pink: HP 97
+--------------------------------------------------
+Round 6
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Quick, 2 for Volt, 3 for Thunder): Your Yellow uses Volt! Damage: 31
+Enemy's Pink uses Sing! Your Yellow falls asleep
+Your Yellow: HP 90 || Enemy's Pink: HP 66
+--------------------------------------------------
+Round 7
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP110): You send Green
+Enemy's Pink uses Paint! Your Green is painted
+Your Green: HP 110 || Enemy's Pink: HP 66
+--------------------------------------------------
+Round 8
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): You Escape

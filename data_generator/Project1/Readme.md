@@ -67,11 +67,11 @@ P1-姓名-任务2
 |- *.h
 |- ...
 ```
-<div align=center><img src="..\\pic\\record_dir_task_2.png" width=100%></div>
+<div align=center><img src="..\\..\\pic\\p1_record_dir_task_2.png" width=100%></div>
 
 1. 运行过程中 `cmd` 窗口显示如**左下**。点击 `record/record.txt` 可以查看自运行开始到现在的运行结果，如**右下**
 <div align=left>
-<img src="..\\pic\\cmd_task_2_record.png" width=38%> <img src="..\\pic\\record_task_2.png" width=60%>
+<img src="..\\..\\pic\\p1_cmd_task_2_record.png" width=38%> <img src="..\\..\\pic\\p1_record_task_2.png" width=60%>
 </div>
 
 1. 在 `cmd` 窗口内按 `Ctrl+c` 结束运行，可选取 `record` 文件夹下的最终回合数交大的 `Max_Score_Operation_score_最终回合数.in` 作为输入的测试案例，将其文件名改为 `数字.in`

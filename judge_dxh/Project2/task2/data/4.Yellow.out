@@ -1,0 +1,24 @@
+Welcome to Battle of Slimes 2!
+Enemy has Green, Blue and Yellow, starting with Yellow.
+You can select three from five (1 for Green, 2 for Red, 3 for Blue, 4 for Yellow, 5 for Pink).
+Select your 1st slime: Select your 2nd slime: Select your 3rd slime: You have Yellow, Pink and Blue, starting with Yellow
+Your Yellow: HP 90 || Enemy's Yellow: HP 90
+Battle starts!
+--------------------------------------------------
+Round 1
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Quick, 2 for Volt, 3 for Thunder): Enemy sends Green
+Your Yellow uses Thunder! Failure
+Your Yellow: HP 90 || Enemy's Green: HP 110
+--------------------------------------------------
+Round 2
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Pink-HP120, 3 for Blue-HP100): Select your next slime (0 for back, 2 for Pink-HP120, 3 for Blue-HP100): You send Blue
+Enemy's Green uses Leaf! Damage: 29
+Your Blue: HP 71 || Enemy's Green: HP 110
+--------------------------------------------------
+Round 3
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Stream, 3 for Rainy): Enemy's Green uses Leaf! Damage: 29
+Your Blue uses Tackle! Damage: 20
+Your Blue: HP 42 || Enemy's Green: HP 90
+--------------------------------------------------
+Round 4
+Select your action (0 for escape, 1 for skill, 2 for change): You Escape

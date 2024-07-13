@@ -1,0 +1,154 @@
+Welcome to Battle of Slimes 2!
+Enemy has Pink, Green and Red, starting with Pink.
+You can select three from five (1 for Green, 2 for Red, 3 for Blue, 4 for Yellow, 5 for Pink).
+Select your 1st slime: Select your 2nd slime: Select your 3rd slime: You have Red, Blue and Pink, starting with Red
+Your Red: HP 100 || Enemy's Pink: HP 120
+Battle starts!
+--------------------------------------------------
+Round 1
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Your Red uses Flame! Damage: 30
+Enemy's Pink uses Sing! Your Red falls asleep
+Your Red: HP 100 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 2
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Blue-HP100, 3 for Pink-HP120): You send Blue
+Enemy's Pink uses Paint! Your Blue is painted
+Your Blue: HP 100 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 3
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Red-HP100, 3 for Pink-HP120): You send Red
+Enemy's Pink uses Sing! Waste
+Your Red: HP 100 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 4
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Blue-HP100, 3 for Pink-HP120): Select your next slime (0 for back, 2 for Blue-HP100, 3 for Pink-HP120): You send Pink
+Enemy's Pink uses Paint! Your Pink is painted
+Your Pink: HP 120 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 5
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Slap, 2 for Sing, 3 for Paint): Enemy's Pink uses Sing! Your Pink falls asleep
+Your Pink is sleeping
+Your Pink: HP 120 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 6
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Red-HP100, 2 for Blue-HP100): You send Red
+Enemy's Pink uses Slap! Damage: 27
+Your Red wakes up
+Your Red: HP 73 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 7
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Blue-HP100, 3 for Pink-HP120): You send Blue
+Enemy's Pink uses Sing! Your Blue falls asleep
+Your Blue: HP 100 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 8
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Red-HP73, 3 for Pink-HP120): You send Red
+Enemy's Pink uses Slap! Damage: 14
+Your Red: HP 59 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 9
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Your Red uses Sunny! Weather becomes sunny
+Enemy's Pink uses Sing! Your Red falls asleep
+Your Red: HP 59 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 10
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Blue-HP100, 3 for Pink-HP120): You send Blue
+Enemy's Pink uses Paint! Your Blue is painted
+Your Blue: HP 100 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 11
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Red-HP59, 3 for Pink-HP120): You send Pink
+Enemy's Pink uses Slap! Damage: 68
+Your Pink wakes up
+Your Pink: HP 52 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 12
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Red-HP59, 2 for Blue-HP100): You send Blue
+Enemy's Pink uses Sing! Waste
+Your Blue: HP 100 || Enemy's Pink: HP 90
+--------------------------------------------------
+Your Blue wakes up
+Round 13
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Red-HP59, 3 for Pink-HP52): Select your next slime (0 for back, 1 for Red-HP59, 3 for Pink-HP52): You send Red
+Enemy's Pink uses Sing! Waste
+Your Red: HP 59 || Enemy's Pink: HP 90
+--------------------------------------------------
+Weather becomes normal
+Round 14
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Blue-HP100, 3 for Pink-HP52): You send Blue
+Enemy's Pink uses Paint! Your Blue is painted
+Your Blue: HP 100 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 15
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Red-HP59, 3 for Pink-HP52): Select your next slime (0 for back, 1 for Red-HP59, 3 for Pink-HP52): You send Pink
+Enemy's Pink uses Sing! Your Pink falls asleep
+Your Pink: HP 52 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 16
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Red-HP59, 2 for Blue-HP100): Select your next slime (0 for back, 1 for Red-HP59, 2 for Blue-HP100): Select your next slime (0 for back, 1 for Red-HP59, 2 for Blue-HP100): You send Blue
+Enemy's Pink uses Slap! Damage: 19
+Your Blue: HP 81 || Enemy's Pink: HP 90
+--------------------------------------------------
+Round 17
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Stream, 3 for Rainy): Your Blue uses Stream! Damage: 25
+Enemy's Pink uses Sing! Your Blue falls asleep
+Your Blue: HP 81 || Enemy's Pink: HP 65
+--------------------------------------------------
+Round 18
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Stream, 3 for Rainy): Your Blue is sleeping
+Enemy's Pink uses Slap! Damage: 39
+Your Blue wakes up
+Your Blue: HP 42 || Enemy's Pink: HP 65
+--------------------------------------------------
+Round 19
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Stream, 3 for Rainy): Your Blue uses Tackle! Damage: 25
+Enemy's Pink uses Sing! Your Blue falls asleep
+Your Blue: HP 42 || Enemy's Pink: HP 40
+--------------------------------------------------
+Round 20
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Stream, 3 for Rainy): Your Blue is sleeping
+Enemy's Pink uses Slap! Damage: 39
+Your Blue wakes up
+Your Blue: HP 3 || Enemy's Pink: HP 40
+--------------------------------------------------
+Round 21
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Stream, 3 for Rainy): Your Blue uses Stream! Damage: 25
+Enemy's Pink uses Slap! Damage: 19
+Your Blue is beaten
+Select your next slime (1 for Red-HP59, 3 for Pink-HP52): You send Pink
+Your Pink: HP 52 || Enemy's Pink: HP 15
+--------------------------------------------------
+Round 22
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Slap, 2 for Sing, 3 for Paint): Enemy's Pink uses Slap! Damage: 68
+Your Pink is beaten
+Select your next slime (1 for Red-HP59): Select your next slime (1 for Red-HP59): Select your next slime (1 for Red-HP59): You send Red
+Your Red: HP 59 || Enemy's Pink: HP 15
+--------------------------------------------------
+Your Red wakes up
+Round 23
+Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Your Red uses Sunny! Weather becomes sunny
+Enemy's Pink uses Sing! Your Red falls asleep
+Your Red: HP 59 || Enemy's Pink: HP 15
+--------------------------------------------------
+Round 24
+Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Your Red is sleeping
+Enemy's Pink uses Paint! Your Red is painted
+Your Red: HP 59 || Enemy's Pink: HP 15
+--------------------------------------------------
+Round 25
+Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Your Red is sleeping
+Enemy's Pink uses Slap! Damage: 54
+Your Red wakes up
+Your Red: HP 5 || Enemy's Pink: HP 15
+--------------------------------------------------
+Round 26
+Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Your Red uses Flame! Damage: 45
+Enemy's Pink is beaten
+Enemy sends Green
+Your Red: HP 5 || Enemy's Green: HP 110
+--------------------------------------------------
+Round 27
+Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Your Red uses Sunny! Weather becomes sunny
+Enemy's Green uses Tackle! Damage: 40
+Your Red is beaten
+You Lose

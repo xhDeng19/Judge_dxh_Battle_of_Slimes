@@ -2,7 +2,13 @@
  制作日期：2024/07/01
 
  简介：自制SJTU程序设计实践Battle of Slimes测评程序（已提供案例）和生成测试案例程序
+ 
+ 下载整个文件：https://github.com/xhDeng19/Judge_dxh_Battle_of_Slimes/archive/refs/heads/main.zip
  ## 更新日志
+ **2024/07/13更新**:
+* 更新了针对Project2中的task1和task2的测评程序和生成测试案例程序，分别在`judge_dxh/Project2`和`data_generator/Project2_task2`下
+* Project2提供的输出不是老师给的，不能完全保证其正确性，请酌情使用测评程序，如果有错误请反馈一下
+
  **2024/07/08更新**：
 * judge_dxh现可支持macOS系统，请在judge_dxh文件夹下选择对应于自己系统的程序
 
@@ -23,16 +29,12 @@
 ```
 Judge_dxh_Battle_of_Slimes.zip
 |- data_generator
-|  |- data_generator
-|  |- Readme.md (介绍 data generator 生成测试案例的程序)
-|  |- Readme.pdf
+|  |- Project1
+|  |- Project2_task2
 |
 |- judge_dxh
-|  |- task1
-|  |- task2
-|  |- task3
-|  |- Readme.md (介绍 judge_dxh 已提供测试案例的测评程序)
-|  |- Readme.pdf
+|  |- Project1
+|  |- Project2
 |
 |- pic
 |- ...

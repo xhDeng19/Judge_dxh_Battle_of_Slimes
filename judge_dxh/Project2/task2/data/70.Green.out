@@ -1,0 +1,352 @@
+Welcome to Battle of Slimes 2!
+Enemy has Green, Blue and Yellow, starting with Green.
+You can select three from five (1 for Green, 2 for Red, 3 for Blue, 4 for Yellow, 5 for Pink).
+Select your 1st slime: Select your 2nd slime: Select your 3rd slime: You have Green, Red and Pink, starting with Green
+Your Green: HP 110 || Enemy's Green: HP 110
+Battle starts!
+--------------------------------------------------
+Round 1
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP100, 3 for Pink-HP120): Select your next slime (0 for back, 2 for Red-HP100, 3 for Pink-HP120): You send Pink
+Enemy's Green uses Tackle! Damage: 25
+Your Pink: HP 95 || Enemy's Green: HP 110
+--------------------------------------------------
+Round 2
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP110, 2 for Red-HP100): You send Red
+Enemy's Green uses Leaf! Damage: 10
+Your Red: HP 90 || Enemy's Green: HP 110
+--------------------------------------------------
+Round 3
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Enemy sends Blue
+Your Red uses Claw! Damage: 13
+Your Red: HP 90 || Enemy's Blue: HP 87
+--------------------------------------------------
+Round 4
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP110, 3 for Pink-HP95): You send Green
+Enemy's Blue uses Rainy! Weather becomes rainy
+Your Green: HP 110 || Enemy's Blue: HP 87
+--------------------------------------------------
+Round 5
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP90, 3 for Pink-HP95): You send Pink
+Enemy sends Green
+Your Pink: HP 95 || Enemy's Green: HP 110
+--------------------------------------------------
+Round 6
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP110, 2 for Red-HP90): You send Green
+Enemy's Green uses Leaf! Damage: 10
+Your Green: HP 100 || Enemy's Green: HP 110
+--------------------------------------------------
+Round 7
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP90, 3 for Pink-HP95): Select your next slime (0 for back, 2 for Red-HP90, 3 for Pink-HP95): You send Pink
+Enemy's Green uses Tackle! Damage: 25
+Your Pink: HP 70 || Enemy's Green: HP 110
+--------------------------------------------------
+Round 8
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP100, 2 for Red-HP90): Select your next slime (0 for back, 1 for Green-HP100, 2 for Red-HP90): Select your next slime (0 for back, 1 for Green-HP100, 2 for Red-HP90): Select your next slime (0 for back, 1 for Green-HP100, 2 for Red-HP90): You send Green
+Enemy's Green uses Leaf! Damage: 10
+Your Green: HP 90 || Enemy's Green: HP 110
+--------------------------------------------------
+Weather becomes normal
+Round 9
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP90, 3 for Pink-HP70): Select your next slime (0 for back, 2 for Red-HP90, 3 for Pink-HP70): Select your next slime (0 for back, 2 for Red-HP90, 3 for Pink-HP70): You send Red
+Enemy's Green uses Tackle! Damage: 20
+Your Red: HP 70 || Enemy's Green: HP 110
+--------------------------------------------------
+Round 10
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP90, 3 for Pink-HP70): You send Green
+Enemy sends Blue
+Your Green: HP 90 || Enemy's Blue: HP 87
+--------------------------------------------------
+Round 11
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Blue uses Rainy! Weather becomes rainy
+Your Green uses Leaf! Damage: 29
+Your Green: HP 90 || Enemy's Blue: HP 58
+--------------------------------------------------
+Round 12
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy sends Green
+Your Green uses Tackle! Damage: 20
+Your Green: HP 90 || Enemy's Green: HP 90
+--------------------------------------------------
+Round 13
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green uses Synthesis! Recovery: 22
+Your Green: HP 92 || Enemy's Green: HP 90
+--------------------------------------------------
+Round 14
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP70, 3 for Pink-HP70): You send Pink
+Enemy's Green uses Tackle! Damage: 25
+Your Pink: HP 45 || Enemy's Green: HP 90
+--------------------------------------------------
+Round 15
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Slap, 2 for Sing, 3 for Paint): Enemy's Green uses Leaf! Damage: 25
+Your Pink uses Paint! Failure
+Your Pink: HP 20 || Enemy's Green: HP 90
+--------------------------------------------------
+Weather becomes normal
+Round 16
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Slap, 2 for Sing, 3 for Paint): Enemy's Green uses Leaf! Damage: 25
+Your Pink is beaten
+Select your next slime (1 for Green-HP92, 2 for Red-HP70): Select your next slime (1 for Green-HP92, 2 for Red-HP70): You send Green
+Your Green: HP 92 || Enemy's Green: HP 90
+--------------------------------------------------
+Round 17
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP70): You send Red
+Enemy's Green uses Tackle! Damage: 20
+Your Red: HP 50 || Enemy's Green: HP 90
+--------------------------------------------------
+Round 18
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP92): Select your next slime (0 for back, 1 for Green-HP92): Select your next slime (0 for back, 1 for Green-HP92): You send Green
+Enemy sends Blue
+Your Green: HP 92 || Enemy's Blue: HP 58
+--------------------------------------------------
+Round 19
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Blue uses Rainy! Weather becomes rainy
+Your Green uses Synthesis! Recovery: 22
+Your Green: HP 110 || Enemy's Blue: HP 58
+--------------------------------------------------
+Round 20
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy sends Green
+Your Green uses Leaf! Damage: 10
+Your Green: HP 110 || Enemy's Green: HP 80
+--------------------------------------------------
+Round 21
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green uses Synthesis! Recovery: 22
+Your Green: HP 110 || Enemy's Green: HP 80
+--------------------------------------------------
+Round 22
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP50): Select your next slime (0 for back, 2 for Red-HP50): Select your next slime (0 for back, 2 for Red-HP50): Select your next slime (0 for back, 2 for Red-HP50): Select your next slime (0 for back, 2 for Red-HP50): You send Red
+Enemy's Green uses Tackle! Damage: 20
+Your Red: HP 30 || Enemy's Green: HP 80
+--------------------------------------------------
+Round 23
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP110): Select your next slime (0 for back, 1 for Green-HP110): Select your next slime (0 for back, 1 for Green-HP110): Select your next slime (0 for back, 1 for Green-HP110): Select your next slime (0 for back, 1 for Green-HP110): You send Green
+Enemy sends Blue
+Your Green: HP 110 || Enemy's Blue: HP 58
+--------------------------------------------------
+Weather becomes normal
+Round 24
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP30): You send Red
+Enemy's Blue uses Rainy! Weather becomes rainy
+Your Red: HP 30 || Enemy's Blue: HP 58
+--------------------------------------------------
+Round 25
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP110): You send Green
+Enemy's Blue uses Stream! Damage: 15
+Your Green: HP 95 || Enemy's Blue: HP 58
+--------------------------------------------------
+Round 26
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP30): You send Red
+Enemy sends Green
+Your Red: HP 30 || Enemy's Green: HP 80
+--------------------------------------------------
+Round 27
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP95): Select your next slime (0 for back, 1 for Green-HP95): Select your next slime (0 for back, 1 for Green-HP95): Select your next slime (0 for back, 1 for Green-HP95): Select your next slime (0 for back, 1 for Green-HP95): You send Green
+Enemy sends Blue
+Your Green: HP 95 || Enemy's Blue: HP 58
+--------------------------------------------------
+Round 28
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP30): You send Red
+Enemy sends Green
+Your Red: HP 30 || Enemy's Green: HP 80
+--------------------------------------------------
+Weather becomes normal
+Round 29
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Enemy sends Blue
+Your Red uses Sunny! Weather becomes sunny
+Your Red: HP 30 || Enemy's Blue: HP 58
+--------------------------------------------------
+Round 30
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP95): You send Green
+Enemy's Blue uses Rainy! Weather becomes rainy
+Your Green: HP 95 || Enemy's Blue: HP 58
+--------------------------------------------------
+Round 31
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP30): Select your next slime (0 for back, 2 for Red-HP30): You send Red
+Enemy sends Green
+Your Red: HP 30 || Enemy's Green: HP 80
+--------------------------------------------------
+Round 32
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP95): Select your next slime (0 for back, 1 for Green-HP95): Select your next slime (0 for back, 1 for Green-HP95): Select your next slime (0 for back, 1 for Green-HP95): Select your next slime (0 for back, 1 for Green-HP95): Select your next slime (0 for back, 1 for Green-HP95): Select your next slime (0 for back, 1 for Green-HP95): Select your next slime (0 for back, 1 for Green-HP95): Select your next slime (0 for back, 1 for Green-HP95): You send Green
+Enemy sends Blue
+Your Green: HP 95 || Enemy's Blue: HP 58
+--------------------------------------------------
+Round 33
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP30): Select your next slime (0 for back, 2 for Red-HP30): You send Red
+Enemy sends Green
+Your Red: HP 30 || Enemy's Green: HP 80
+--------------------------------------------------
+Round 34
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Enemy sends Blue
+Your Red uses Sunny! Weather becomes sunny
+Your Red: HP 30 || Enemy's Blue: HP 58
+--------------------------------------------------
+Round 35
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Enemy's Blue uses Rainy! Weather becomes rainy
+Your Red uses Claw! Damage: 13
+Your Red: HP 30 || Enemy's Blue: HP 45
+--------------------------------------------------
+Round 36
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP95): You send Green
+Enemy's Blue uses Stream! Damage: 15
+Your Green: HP 80 || Enemy's Blue: HP 45
+--------------------------------------------------
+Round 37
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy sends Green
+Your Green uses Synthesis! Recovery: 22
+Your Green: HP 102 || Enemy's Green: HP 80
+--------------------------------------------------
+Round 38
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green uses Tackle! Damage: 20
+Your Green: HP 82 || Enemy's Green: HP 60
+--------------------------------------------------
+Round 39
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green uses Leaf! Damage: 10
+Your Green: HP 62 || Enemy's Green: HP 50
+--------------------------------------------------
+Weather becomes normal
+Round 40
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP30): You send Red
+Enemy's Green uses Synthesis! Recovery: 33
+Your Red: HP 30 || Enemy's Green: HP 83
+--------------------------------------------------
+Round 41
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP62): Select your next slime (0 for back, 1 for Green-HP62): Select your next slime (0 for back, 1 for Green-HP62): Select your next slime (0 for back, 1 for Green-HP62): Select your next slime (0 for back, 1 for Green-HP62): Select your next slime (0 for back, 1 for Green-HP62): Select your next slime (0 for back, 1 for Green-HP62): You send Green
+Enemy sends Blue
+Your Green: HP 62 || Enemy's Blue: HP 45
+--------------------------------------------------
+Round 42
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Blue uses Rainy! Weather becomes rainy
+Your Green uses Tackle! Damage: 14
+Your Green: HP 62 || Enemy's Blue: HP 31
+--------------------------------------------------
+Round 43
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy sends Green
+Your Green uses Leaf! Damage: 10
+Your Green: HP 62 || Enemy's Green: HP 73
+--------------------------------------------------
+Round 44
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP30): Select your next slime (0 for back, 2 for Red-HP30): Select your next slime (0 for back, 2 for Red-HP30): Select your next slime (0 for back, 2 for Red-HP30): You send Red
+Enemy's Green uses Tackle! Damage: 20
+Your Red: HP 10 || Enemy's Green: HP 73
+--------------------------------------------------
+Round 45
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Enemy sends Blue
+Your Red uses Claw! Damage: 13
+Your Red: HP 10 || Enemy's Blue: HP 18
+--------------------------------------------------
+Round 46
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP62): Select your next slime (0 for back, 1 for Green-HP62): Select your next slime (0 for back, 1 for Green-HP62): Select your next slime (0 for back, 1 for Green-HP62): Select your next slime (0 for back, 1 for Green-HP62): You send Green
+Enemy's Blue uses Stream! Damage: 15
+Your Green: HP 47 || Enemy's Blue: HP 18
+--------------------------------------------------
+Weather becomes normal
+Round 47
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Blue uses Rainy! Weather becomes rainy
+Your Green uses Synthesis! Recovery: 22
+Your Green: HP 69 || Enemy's Blue: HP 18
+--------------------------------------------------
+Round 48
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP10): You send Red
+Enemy sends Green
+Your Red: HP 10 || Enemy's Green: HP 73
+--------------------------------------------------
+Round 49
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Enemy sends Blue
+Your Red uses Claw! Damage: 13
+Your Red: HP 10 || Enemy's Blue: HP 5
+--------------------------------------------------
+Round 50
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP69): You send Green
+Enemy's Blue uses Stream! Damage: 15
+Your Green: HP 54 || Enemy's Blue: HP 5
+--------------------------------------------------
+Round 51
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP10): You send Red
+Enemy sends Green
+Your Red: HP 10 || Enemy's Green: HP 73
+--------------------------------------------------
+Weather becomes normal
+Round 52
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Green-HP54): Select your next slime (0 for back, 1 for Green-HP54): Select your next slime (0 for back, 1 for Green-HP54): You send Green
+Enemy sends Blue
+Your Green: HP 54 || Enemy's Blue: HP 5
+--------------------------------------------------
+Round 53
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP10): You send Red
+Enemy's Blue uses Rainy! Weather becomes rainy
+Your Red: HP 10 || Enemy's Blue: HP 5
+--------------------------------------------------
+Round 54
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Your Red uses Flame! Damage: 4
+Enemy's Blue uses Stream! Damage: 60
+Your Red is beaten
+Select your next slime (1 for Green-HP54): Select your next slime (1 for Green-HP54): You send Green
+Your Green: HP 54 || Enemy's Blue: HP 1
+--------------------------------------------------
+Round 55
+Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy sends Green
+Your Green uses Synthesis! Recovery: 22
+Your Green: HP 76 || Enemy's Green: HP 73
+--------------------------------------------------
+Round 56
+Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green uses Leaf! Damage: 10
+Your Green: HP 56 || Enemy's Green: HP 63
+--------------------------------------------------
+Round 57
+Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green uses Leaf! Damage: 10
+Your Green: HP 36 || Enemy's Green: HP 53
+--------------------------------------------------
+Weather becomes normal
+Round 58
+Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Synthesis! Recovery: 33
+Your Green uses Synthesis! Recovery: 33
+Your Green: HP 69 || Enemy's Green: HP 86
+--------------------------------------------------
+Round 59
+Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green uses Tackle! Damage: 20
+Your Green: HP 49 || Enemy's Green: HP 66
+--------------------------------------------------
+Round 60
+Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green uses Synthesis! Recovery: 33
+Your Green: HP 62 || Enemy's Green: HP 66
+--------------------------------------------------
+Round 61
+Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green uses Leaf! Damage: 10
+Your Green: HP 42 || Enemy's Green: HP 56
+--------------------------------------------------
+Round 62
+Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green uses Synthesis! Recovery: 33
+Your Green: HP 55 || Enemy's Green: HP 56
+--------------------------------------------------
+Round 63
+Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green uses Tackle! Damage: 20
+Your Green: HP 35 || Enemy's Green: HP 36
+--------------------------------------------------
+Round 64
+Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Synthesis! Recovery: 33
+Your Green uses Leaf! Damage: 10
+Your Green: HP 35 || Enemy's Green: HP 59
+--------------------------------------------------
+Round 65
+Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green uses Leaf! Damage: 10
+Your Green: HP 15 || Enemy's Green: HP 49
+--------------------------------------------------
+Round 66
+Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Synthesis! Recovery: 33
+Your Green uses Tackle! Damage: 20
+Your Green: HP 15 || Enemy's Green: HP 62
+--------------------------------------------------
+Round 67
+Select your action (0 for escape, 1 for skill): Select the skill (0 for back, 1 for Tackle, 2 for Leaf, 3 for Synthesis): Enemy's Green uses Tackle! Damage: 20
+Your Green is beaten
+You Lose

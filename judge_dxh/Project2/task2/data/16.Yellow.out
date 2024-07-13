@@ -1,0 +1,87 @@
+Welcome to Battle of Slimes 2!
+Enemy has Green, Blue and Yellow, starting with Yellow.
+You can select three from five (1 for Green, 2 for Red, 3 for Blue, 4 for Yellow, 5 for Pink).
+Select your 1st slime: Select your 2nd slime: Select your 3rd slime: You have Yellow, Red and Blue, starting with Yellow
+Your Yellow: HP 90 || Enemy's Yellow: HP 90
+Battle starts!
+--------------------------------------------------
+Round 1
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP100, 3 for Blue-HP100): Select your next slime (0 for back, 2 for Red-HP100, 3 for Blue-HP100): You send Red
+Enemy sends Green
+Your Red: HP 100 || Enemy's Green: HP 110
+--------------------------------------------------
+Round 2
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Yellow-HP90, 3 for Blue-HP100): You send Yellow
+Enemy sends Blue
+Your Yellow: HP 90 || Enemy's Blue: HP 100
+--------------------------------------------------
+Round 3
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Quick, 2 for Volt, 3 for Thunder): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP100, 3 for Blue-HP100): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Quick, 2 for Volt, 3 for Thunder): Enemy sends Green
+Your Yellow uses Quick! Damage: 15
+Your Yellow: HP 90 || Enemy's Green: HP 95
+--------------------------------------------------
+Round 4
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Quick, 2 for Volt, 3 for Thunder): Your Yellow uses Thunder! Failure
+Enemy's Green uses Leaf! Damage: 20
+Your Yellow: HP 70 || Enemy's Green: HP 95
+--------------------------------------------------
+Round 5
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Quick, 2 for Volt, 3 for Thunder): Your Yellow uses Quick! Damage: 15
+Enemy's Green uses Leaf! Damage: 20
+Your Yellow: HP 50 || Enemy's Green: HP 80
+--------------------------------------------------
+Round 6
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP100, 3 for Blue-HP100): You send Red
+Enemy's Green uses Leaf! Damage: 10
+Your Red: HP 90 || Enemy's Green: HP 80
+--------------------------------------------------
+Round 7
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Yellow-HP50, 3 for Blue-HP100): Select your next slime (0 for back, 1 for Yellow-HP50, 3 for Blue-HP100): Select your next slime (0 for back, 1 for Yellow-HP50, 3 for Blue-HP100): Select your next slime (0 for back, 1 for Yellow-HP50, 3 for Blue-HP100): You send Blue
+Enemy sends Blue
+Your Blue: HP 100 || Enemy's Blue: HP 100
+--------------------------------------------------
+Round 8
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Yellow-HP50, 2 for Red-HP90): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Yellow-HP50, 2 for Red-HP90): You send Red
+Enemy's Blue uses Tackle! Damage: 20
+Your Red: HP 70 || Enemy's Blue: HP 100
+--------------------------------------------------
+Round 9
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Claw, 2 for Flame, 3 for Sunny): Enemy's Blue uses Rainy! Weather becomes rainy
+Your Red uses Flame! Damage: 4
+Your Red: HP 70 || Enemy's Blue: HP 96
+--------------------------------------------------
+Round 10
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 1 for Yellow-HP50, 3 for Blue-HP100): You send Yellow
+Enemy's Blue uses Stream! Damage: 30
+Your Yellow: HP 20 || Enemy's Blue: HP 96
+--------------------------------------------------
+Round 11
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Quick, 2 for Volt, 3 for Thunder): Enemy sends Green
+Your Yellow uses Volt! Damage: 13
+Your Yellow: HP 20 || Enemy's Green: HP 67
+--------------------------------------------------
+Round 12
+Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Quick, 2 for Volt, 3 for Thunder): Your Yellow uses Quick! Damage: 15
+Enemy's Green uses Leaf! Damage: 20
+Your Yellow is beaten
+Select your next slime (2 for Red-HP70, 3 for Blue-HP100): Select your next slime (2 for Red-HP70, 3 for Blue-HP100): Select your next slime (2 for Red-HP70, 3 for Blue-HP100): Select your next slime (2 for Red-HP70, 3 for Blue-HP100): You send Red
+Your Red: HP 70 || Enemy's Green: HP 52
+--------------------------------------------------
+Round 13
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 3 for Blue-HP100): Select your next slime (0 for back, 3 for Blue-HP100): Select your next slime (0 for back, 3 for Blue-HP100): Select your next slime (0 for back, 3 for Blue-HP100): You send Blue
+Enemy sends Blue
+Your Blue: HP 100 || Enemy's Blue: HP 96
+--------------------------------------------------
+Weather becomes normal
+Round 14
+Select your action (0 for escape, 1 for skill, 2 for change): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Stream, 3 for Rainy): Enemy's Blue uses Tackle! Damage: 14
+Your Blue uses Tackle! Damage: 14
+Your Blue: HP 86 || Enemy's Blue: HP 82
+--------------------------------------------------
+Round 15
+Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP70): Select your next slime (0 for back, 2 for Red-HP70): Select your next slime (0 for back, 2 for Red-HP70): Select your next slime (0 for back, 2 for Red-HP70): Select your next slime (0 for back, 2 for Red-HP70): Select your next slime (0 for back, 2 for Red-HP70): Select your action (0 for escape, 1 for skill, 2 for change): Select your next slime (0 for back, 2 for Red-HP70): Select your next slime (0 for back, 2 for Red-HP70): Select your action (0 for escape, 1 for skill, 2 for change): Select the skill (0 for back, 1 for Tackle, 2 for Stream, 3 for Rainy): Enemy's Blue uses Tackle! Damage: 14
+Your Blue uses Tackle! Damage: 14
+Your Blue: HP 72 || Enemy's Blue: HP 68
+--------------------------------------------------
+Round 16
+Select your action (0 for escape, 1 for skill, 2 for change): You Escape
