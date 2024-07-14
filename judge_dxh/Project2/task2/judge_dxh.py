@@ -91,6 +91,9 @@ def compare_files(data_out_files, your_out_files):
             isCorrect = True
 
             for line_i in range(min(len(standard_content), len(your_content))):
+                if line_i == 1: #不用管敌方史莱姆的出场顺序
+                    continue
+
                 if standard_content[line_i] != your_content[line_i]:
                     if isCorrect:
                         print(f"{get_name(data_out_files[i])}.out is WRONG. Compare {os.path.join('data', f'{get_name(data_out_files[i])}.out')} and {os.path.join('data', 'your_output_files', f'{get_name(data_out_files[i])}.out')} to find out.")
